@@ -1,0 +1,15 @@
+config.local.php
+config.php
+.env
+.env.*
+!.env.example
+*.log
+*.tmp
+*.bak
+*.sql.gz
+sessions/
+cache/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
