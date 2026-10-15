@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Lenovo IdeaPad Slim 3","brand":"Lenovo","category":"Laptops","price":389000,"oldPrice":435000,"image":"laptop.svg","stock":12,"featured":true,"description":"A practical everyday laptop with a crisp display and dependable performance."},
+  {"id":2,"name":"Samsung Galaxy A55","brand":"Samsung","category":"Mobile Phones","price":239000,"oldPrice":269000,"image":"phone.svg","stock":25,"featured":true,"description":"A modern Samsung smartphone with a vivid display and capable camera system."},
+  {"id":3,"name":"Sony WH-1000XM5","brand":"Sony","category":"Headphones","price":45000,"oldPrice":52000,"image":"headphones.svg","stock":32,"featured":true,"description":"Premium wireless headphones with immersive sound and noise cancellation."},
+  {"id":4,"name":"Canon EOS R50","brand":"Canon","category":"Cameras","price":179000,"oldPrice":199000,"image":"images/products/canon-eos-r50.jpg","stock":9,"featured":true,"description":"A compact mirrorless camera for sharp photographs and detailed video."},
+  {"id":5,"name":"Anker USB-C Hub 7-in-1","brand":"Anker","category":"Accessories","price":69900,"oldPrice":79900,"image":"images/products/anker-usb-c-hub-7-in-1.jpg","stock":36,"featured":true,"description":"Expand your laptop connectivity with useful USB-C, HDMI and card-reader ports."},
+  {"id":6,"name":"Apple MacBook Air","brand":"Apple","category":"Laptops","price":269000,"oldPrice":299000,"image":"images/products/apple-macbook-air.png","stock":14,"featured":true,"description":"A thin, quiet and capable laptop designed for everyday productivity."}
+]
